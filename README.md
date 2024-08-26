@@ -1,1 +1,2 @@
 # IA-generativa
+A Inteligência Artificial Generativa é uma vertente da IA que se concentra na criação de novos conteúdos a partir de dados existentes. Utilizando técnicas avançadas de aprendizado profundo, como redes neurais, a IA generativa pode produzir textos, imagens, vídeos, músicas e até código de software. Essa tecnologia tem o potencial de revolucionar diversas indústrias, oferecendo novas formas de automação, criatividade e inovação.
